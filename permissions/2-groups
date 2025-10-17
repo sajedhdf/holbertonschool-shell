@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script that prints all the groups the current user is part of (alternative using id)
+
+id -Gn
