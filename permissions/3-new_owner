@@ -1,2 +1,4 @@
 #!/bin/bash
-chown betty hello
+# Script to change the owner of the file 'hello' to user 'betty'
+
+sudo chown betty hello
