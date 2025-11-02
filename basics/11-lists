@@ -1,4 +1,4 @@
 #!/bin/bash
-ls -la .
-ls -la ..
-[ -d /boot ] && ls -la /boot
+# 11-lists
+
+ls -la . .. /boot
