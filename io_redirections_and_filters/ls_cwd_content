@@ -1,0 +1,14 @@
+total 80
+drwxr-xr-x  13 fatima  staff  416 31 oct 21:45 .
+drwxr-xr-x   7 fatima  staff  224 26 oct 18:12 ..
+-rwxr-xr-x   1 fatima  staff   32 26 oct 18:13 0-hello_world
+-rwxr-xr-x   1 fatima  staff   28 26 oct 18:22 1-confused_smiley
+-rwxr-xr-x   1 fatima  staff   28 26 oct 19:00 2-hellofile
+-rwxr-xr-x   1 fatima  staff   39 26 oct 19:55 3-twofiles
+-rwxr-xr-x   1 fatima  staff   35 26 oct 20:13 4-lastlines
+-rwxr-xr-x   1 fatima  staff   35 30 oct 22:20 5-firstlines
+-rwxr-xr-x   1 fatima  staff   40 30 oct 22:29 6-third_line
+-rwxr-xr-x   1 fatima  staff   36 31 oct 21:45 8-cwd_state
+-rw-r--r--   1 fatima  staff  556 26 oct 18:15 README.md
+-rw-r--r--   1 fatima  staff  248 30 oct 22:29 iacta
+-rw-r--r--   1 fatima  staff    0 31 oct 21:45 ls_cwd_content
