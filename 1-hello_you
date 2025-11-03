@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script that prints hello to the current user
+
+echo "hello $USER"
