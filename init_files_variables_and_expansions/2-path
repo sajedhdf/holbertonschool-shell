@@ -1,4 +1,2 @@
 #!/bin/bash
-# Script that adds /action to the PATH
-
 export PATH="$PATH:/action"
