@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x drwxr-x--x
+chmod a+x drwxr-x--x my_dir
