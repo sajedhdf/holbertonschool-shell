@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod rwx--- my_dir
+chmod rwx--- my_dir hello
