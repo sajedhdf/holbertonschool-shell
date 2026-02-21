@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Best School\n" > "*\\\\'\"Best School\"'\\\\*\\$\\?\\*\\*\\*\\*\\*:)"
+ls -1t | head -1  "Best School\n" > "*\\\\'\"Best School\"'\\\\*\\$\\?\\*\\*\\*\\*\\*:)"
