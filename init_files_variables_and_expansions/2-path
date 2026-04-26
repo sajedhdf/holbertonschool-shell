@@ -1,1 +1,2 @@
-export PATH="$PATH:/action"
+#!/bin/bash
+printf "%.2f\n" "$NUM"
