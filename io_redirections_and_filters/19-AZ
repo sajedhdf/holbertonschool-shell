@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "AccaCat" | tr 'Ac' 'Ze'
+tr 'Ac' 'Ze'
